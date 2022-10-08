@@ -1,13 +1,13 @@
 {
-  "name": "tapable",
+  "name": "tapable-browser",
   "version": "2.2.1",
   "author": "Tobias Koppers @sokra",
   "description": "Just a little module for plugins.",
   "license": "MIT",
-  "homepage": "https://github.com/webpack/tapable",
+  "homepage": "https://github.com/tarnishablec/tapable-broswer",
   "repository": {
     "type": "git",
-    "url": "http://github.com/webpack/tapable.git"
+    "url": "https://github.com/tarnishablec/tapable-broswer.git"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",

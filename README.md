@@ -1,3 +1,6 @@
+# A fork to browser usage until [Vite feature](https://github.com/vitejs/vite/pull/10314)
+
+
 # Tapable
 
 The tapable package expose many Hook classes, which can be used to create hooks for plugins.
